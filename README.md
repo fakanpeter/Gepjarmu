@@ -5,7 +5,7 @@ Ez a repository a gépjármű nyilvántartás szimulációjának automatizálás
 ## Előfeltételek
 
 A program használatához szükséges a Camunda környezet futtatása. Részletes dokumentáció a Camunda telepítéséről és beállításáról az alábbi linkeken érhető el:
-- [Camunda önálló telepítés Dockerrel](https://docs.camunda.io/docs/self-managed/setup/deploy/other/docker/)
+- [Camunda Self-Managed telepítés Dockerrel](https://docs.camunda.io/docs/self-managed/setup/deploy/other/docker/)
 - [Camunda Docker Compose konfiguráció](https://github.com/camunda/camunda-platform/blob/main/docker-compose.yaml)
 
 ## BPMN Diagram
